@@ -1,0 +1,10 @@
+{
+    "method": "FAISS IndexFlatIP",
+    "similarity_metric": "Cosine Similarity",
+    "embedding_dimension": 512,
+    "training_images": 10000,
+    "training_captions": 50000,
+    "data_used": "Train only",
+    "validation_indexed": false,
+    "test_indexed": false
+}

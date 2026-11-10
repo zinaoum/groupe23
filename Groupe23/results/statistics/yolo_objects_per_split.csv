@@ -1,0 +1,4 @@
+split,count,mean,std,min,median,max
+test,1000,5.64,5.25,0,4.0,33
+train,10000,5.47,4.98,0,4.0,46
+validation,100,5.35,4.42,0,4.0,22
